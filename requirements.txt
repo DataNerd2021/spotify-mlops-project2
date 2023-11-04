@@ -1,0 +1,6 @@
+polars
+numpy
+requests
+scikit-learn
+spotipy
+streamlit
